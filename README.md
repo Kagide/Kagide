@@ -21,5 +21,5 @@ Scalable Machine Learning: Exploring how to apply these algorithms to larger, mo
 📫 How to reach me: kagide6@gmail.com
 
 🛠️ Tools & Languages:
-Python NumPy pandas Scikit-learn Matplotlib Git
+Python | NumPy | pandas | Scikit-learn | Matplotlib | Git
 
