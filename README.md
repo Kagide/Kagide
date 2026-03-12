@@ -1,25 +1,42 @@
-Hi, I’m @Kagide 👋
-Machine Learning Student | Building a Strong Foundation
+# Hi, I'm Egide Kagiraneza 👋
 
-🌱 What I've Mastered:
+### Frontend React Developer | Aspiring Full-Stack Developer
 
-Supervised Learning Fundamentals: I have a solid grasp of the core concepts, including building and evaluating models for:
+I am passionate about building **modern, responsive web applications** and continuously improving my skills in **frontend and backend development**.
 
-Regression: Predicting continuous values (e.g., house prices) using algorithms like linear regression.
+Currently focused on strengthening my foundation in **React, JavaScript, and modern web technologies**, while progressing toward becoming a **Full-Stack Developer**.
 
-Classification: Categorizing data into classes (e.g., spam vs. not spam) using algorithms like logistic regression.
+---
 
-🔭 What I'm Learning Next:
-I am now diving into Advanced Learning Algorithms to expand my toolkit, including:
+### 🌐 Portfolio
+You can view my work and projects on my portfolio website:
 
-Neural Networks: Understanding neurons, layers, and activation functions to build more powerful models.
+🔗 **Portfolio:** (Add your portfolio link here)
 
-Training Deep Networks: Learning techniques like forward/back propagation and optimization algorithms.
+---
 
-Scalable Machine Learning: Exploring how to apply these algorithms to larger, more complex datasets.
+### 🛠️ Tech Stack
 
-📫 How to reach me: kagide6@gmail.com
+**Frontend**  
+React | JavaScript | HTML | CSS | Tailwind CSS
 
-🛠️ Tools & Languages:
-Python | NumPy | pandas | Scikit-learn | Matplotlib | Git
+**Tools**  
+Git | GitHub | VS Code | Figma
 
+---
+
+### 🌱 Currently Learning
+
+• Advanced React Patterns  
+• Backend Development (Node.js & APIs)  
+• Full-Stack Application Architecture
+
+---
+
+### 📫 Contact
+
+Email: **kagide6@gmail.com**
+
+---
+
+⭐ Always learning, building, and improving.
